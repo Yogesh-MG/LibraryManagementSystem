@@ -61,8 +61,8 @@ library_management/
 
 1️⃣ **Clone the repository**  
 ```bash
-git clone https://github.com/your-username/library-management.git
-cd library-management
+git clone https://github.com/Yogesh-MG/LibraryManagementSystem.git
+cd LibraryManagementSystem 
 ```
 
 2️⃣ **Create a virtual environment & activate it**  
@@ -77,9 +77,10 @@ venv\Scripts\activate  # Windows
 pip install -r requirements.txt
 ```
 
-4️⃣ **Run database migrations**  
+4️⃣ **Run database migrations and Collect static files**  
 ```bash
 python manage.py migrate
+python manage.py collectstatic
 ```
 
 5️⃣ **Run the development server**  
@@ -94,8 +95,9 @@ Open your browser and go to:
 ---
 
 ## 🖼️ Screenshots  
-🚀 *Include some UI screenshots here*  
-
+![Main Page](Screenshot 2025-02-23 103049.png)
+![Login Page](Screenshot 2025-02-23 103059.png)
+![Dashboard](Screenshot 2025-02-23 102749.png)
 ---
 
 ## 🤝 Contributing  
