@@ -95,7 +95,9 @@ Open your browser and go to:
 ---
 
 ## 🖼️ Screenshots  
-![Main Page](Screenshot 2025-02-23 103049.png)
+![Main Page](LibraryManagementSystem
+/Screenshot 2025-02-23 103049.png
+)
 ![Login Page](Screenshot 2025-02-23 103059.png)
 ![Dashboard](Screenshot 2025-02-23 102749.png)
 ---
