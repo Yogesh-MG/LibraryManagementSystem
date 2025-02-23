@@ -94,19 +94,6 @@ Open your browser and go to:
 
 ---
 
-## 🖼️ Screenshots  
-![Main Page](LibraryManagementSystem
-/Screenshot 2025-02-23 103049.png
-)
-![Login Page](Screenshot 2025-02-23 103059.png)
-![Dashboard](Screenshot 2025-02-23 102749.png)
----
-
-## 🤝 Contributing  
-Contributions are welcome! Fork the repo, create a new branch, and submit a PR.  
-
----
-
 ## 📝 License  
 This project is **MIT Licensed**.  
 
