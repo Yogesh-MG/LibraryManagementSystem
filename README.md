@@ -15,9 +15,8 @@ The **Library Management System** is a Django-based web application that allows 
 
 ## 🛠️ Tech Stack  
 - **Backend**: Django (Python)  
-- **Database**: SQLite / PostgreSQL  
-- **Frontend**: HTML, CSS, JavaScript  
-- **Hosting**: AWS / Heroku (Optional)  
+- **Database**: SQLite 
+- **Frontend**: HTML, CSS, JavaScript 
 
 ---
 
